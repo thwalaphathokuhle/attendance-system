@@ -116,6 +116,7 @@ config/db.php
 ## Screenshots
 
 *Login Page*
+screenshots/Screenshot 2026-07-13 150427.png
 
 *Attendance Screen*
 
