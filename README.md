@@ -115,7 +115,7 @@ config/db.php
 ## Screenshots
 
 ### Login Page
-![Login Page](screenshots/Screenshot%202026-07-13%20150227.png)
+![Login Page](employeelogin)
 
 ### Attendance Screen
 ![Attendance Screen](screenshots/Screenshot%202026-07-13%20150323.png)
