@@ -115,19 +115,22 @@ config/db.php
 ## Screenshots
 
 ### Login Page
-
-![Login Page](screenshots/Screenshot%202026-07-13%20150427.png)
+![Login Page](screenshots/Screenshot%202026-07-13%20150227.png)
 
 ### Attendance Screen
+![Attendance Screen](screenshots/Screenshot%202026-07-13%20150323.png)
 
-![Attendance Screen](screenshots/Screenshot%202026-07-13%20150435.png)
+### Add Employee
+![Add Employee](screenshots/Screenshot%202026-07-13%20150427.png)
+
+### Dashboard
+![Dashboard](screenshots/Screenshot%202026-07-13%20150435.png)
 
 ### Records
-
 ![Records](screenshots/Screenshot%202026-07-13%20150445.png)
 
----
-
+### Reports
+![Reports](screenshots/Screenshot%202026-07-13%20150454.png)
 ## Author
 
 **Phathokuhle Siyathokoza Thwala**
