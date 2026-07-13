@@ -118,7 +118,7 @@ config/db.php
 ![Login Page](employeelogin)
 
 ### Attendance Screen
-![Attendance Screen](screenshots/Screenshot%202026-07-13%20150323.png)
+![Attendance Screen](login)
 
 ### Add Employee
 ![Add Employee](screenshots/Screenshot%202026-07-13%20150427.png)
