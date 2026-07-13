@@ -122,7 +122,8 @@ screenshots/Screenshot 2026-07-13 150427.png
 
 *Admin Dashboard*
 screenshots/Screenshot 2026-07-13 150435.png
-
+*Records*
+screenshots/Screenshot 2026-07-13 150445.png
 ---
 
 ## Author
