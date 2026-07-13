@@ -121,6 +121,7 @@ screenshots/Screenshot 2026-07-13 150427.png
 *Attendance Screen*
 
 *Admin Dashboard*
+screenshots/Screenshot 2026-07-13 150435.png
 
 ---
 
