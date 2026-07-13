@@ -112,18 +112,20 @@ config/db.php
 - Shift scheduling
 
 ---
-
 ## Screenshots
 
-*Login Page*
-screenshots/Screenshot 2026-07-13 150427.png
+### Login Page
 
-*Attendance Screen*
+![Login Page](screenshots/Screenshot%202026-07-13%20150427.png)
 
-*Admin Dashboard*
-screenshots/Screenshot 2026-07-13 150435.png
-*Records*
-screenshots/Screenshot 2026-07-13 150445.png
+### Attendance Screen
+
+![Attendance Screen](screenshots/Screenshot%202026-07-13%20150435.png)
+
+### Records
+
+![Records](screenshots/Screenshot%202026-07-13%20150445.png)
+
 ---
 
 ## Author
